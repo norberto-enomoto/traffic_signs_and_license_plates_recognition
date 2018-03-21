@@ -70,3 +70,4 @@ fabric.properties
 
 #project
 /**/TrSiRe/dataset/**
+/**/TrSiRe/src/preprocessing/readTrafficSigns.txt
